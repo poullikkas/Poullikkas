@@ -11,8 +11,8 @@
         <a href="#contact">Contact</a>
     </nav>
     <section id="about">
-        <h2> 🌟 About Me</h2>
-        <p>Welcome to my academic website! I specialize in [your research area]. My work focuses on [brief description].</p>
+        <h2> 🌟 Short Bio</h2>
+        <p>Professor Andreas Poullikkas holds a Bachelor of Engineering (B.Eng.) degree in mechanical engineering, a Master of Philosophy (M.Phil.) degree in nuclear safety and turbomachinery, a Doctor of Philosophy (Ph.D.) degree in numerical analysis and a Doctor of Technology (D.Tech.) higher doctorate degree in energy policy and energy systems optimization from Loughborough University, U.K. He is a Fellow of the Institution of Engineering and Technology (FIET). He is a Professor of Energy Systems at the School of Engineering, Frederick University and he was for several years the Chairman of the Cyprus Energy Regulatory Authority (CERA) and the Chairman of the Cyprus Energy Strategy Council (both appointments by the President of Cyprus). In his professional career he has worked for academic institutions and for the industry, including as a Visiting Faculty member at Harvard University, USA, as a Professor of Power Systems and Chair of the Department of Electrical Engineering at the Cyprus University of Technology and as an Assistant Manager at the Electricity Authority of Cyprus (founder and director of the Research and Development Department). Professor Poullikkas is the Associate Editor of journals Discover Energy (Springer Nature) and Renewable and Sustainable Energy Reviews (Elsevier), member of the Editorial Board of the journal Sustainable Energy Technologies and Assessments and author of various peer-reviewed publications in scientific journals, book chapters, conference proceedings and the author of ten books. He is included in the World’s Top 2% Scientists and the World’s Top 100000 Researchers Lists, both published by Stanford University.</p>
     </section>
     <section id="publications">
         <h2> 📈 Publications</h2>
