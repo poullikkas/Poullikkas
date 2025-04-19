@@ -37,7 +37,7 @@
       <p><a href="https://scholar.google.com/citations?sortby=pubdate&hl=en&user=GUmHMNkAAAAJ&view_op=list_works">[Google Scholar Profile]</a></p>
     </section>
     <footer>
-        &copy; 2025 Dr. Andreas Poullikkas Name. Last updated: Apr 2025.
+        &copy; 2025 Dr. Andreas Poullikkas. Last updated: Apr 2025.
     </footer>
 </body>
 </html>
